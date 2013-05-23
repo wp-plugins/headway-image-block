@@ -1,4 +1,4 @@
-=== Headway Affiliate Block ===
+=== Headway Image Block ===
 Contributors: ch0cbk0b3ar
 Donate link: http://headway101.com/blocks/image/
 Tags: image, media, headway themes, headway blocks
